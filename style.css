@@ -1,0 +1,21 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color: blue;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+canvas{
+box-shadow:10px 10px 10px blue;
+border-radius: 10px;
+border-style: dotted;
+}
+
+#status
+{
+font-size: 18px;
+}
+
